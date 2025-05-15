@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 238, 0);
+    
+}
+nav{
+    background-color: rgb(255, 255, 255);
+}
+img{
+    height: 100;
+}
+.text{ 
+    text-align: center;
+    font-size: 4vh;
+    padding: 10vh 0 1vh 0;
+}
+
+.espaçamento{
+    padding: 10vh 0 1vh 0;
+}
+.espaçamento2{
+    padding: 4vh 0 1vh 0;
+}
